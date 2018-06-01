@@ -7,7 +7,7 @@ services that you can point to your environment and modify. To set that up:
 
 * Install [Postman](https://www.getpostman.com/)
 
-* Import the [Sample Collection](http://epichub/epicor-erp/rest-developer-materials/blob/master/samples/postman/Erp10RestSamples.json.postman_collection).
+* Import the [Sample Collection](https://github.com/bconner/Epicor-Rest-PostmanSamples/blob/master/Erp10RestSamples.json.postman_collection).
 See [this](https://www.getpostman.com/docs/collections)
 for details on importing a collection.
 
