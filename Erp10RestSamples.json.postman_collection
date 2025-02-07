@@ -45,7 +45,7 @@
 	"requests": [
 		{
 			"id": "01c3a387-1814-3ee1-5ea7-11dff6dfbaa5",
-			"headers": "Authorization: Basic bWFuYWdlcjpFcGljb3IxMjM=\n",
+			"headers": "Authorization: Basic real-creds-here",
 			"url": "{{Host}}/api/v1/Erp.Bo.SalesOrderSvc/OrderDtls('EPIC06',5360,1)/OrderRels",
 			"pathVariables": {},
 			"preRequestScript": "",
